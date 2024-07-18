@@ -8,3 +8,8 @@ You also need these prerequisites to run and debug your functions locally. They 
 - The Azure Functions Core Tools, which enables an integrated local debugging experience. When you have the Azure Functions extension installed, the easiest way to install or update Core Tools is by running the Azure Functions: Install or Update Azure Functions Core Tools command from the command palette.
 - The C# extension for Visual Studio Code.
 - .NET (CLI), which is included in the .NET SDK.
+
+
+Follow the instructions here
+
+https://learn.microsoft.com/en-us/azure/azure-functions/functions-develop-vs-code?tabs=node-v4%2Cpython-v2%2Cisolated-process&pivots=programming-language-csharp
