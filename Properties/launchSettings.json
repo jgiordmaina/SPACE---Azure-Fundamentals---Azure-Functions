@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SPACE___Azure_Fundamentals___Azure_Functions": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7227",
+      "launchBrowser": false
+    }
+  }
+}
